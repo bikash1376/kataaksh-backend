@@ -16,7 +16,7 @@ import applauseRoute from "./routes/applauseRoutes.js";
 import bookmarkRoute from "./routes/bookmarkRoutes.js";
 
 const corsOptions = {
-  origin: "*",
+  origin: "https://kataaksh-blog.onrender.com",
   credentials: true,
 };
 
